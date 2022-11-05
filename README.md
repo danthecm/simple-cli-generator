@@ -60,5 +60,5 @@ Congratulations!!!
 
 ## References
 
-- [How do I run Python script using arguments in windows command line]([http://pandoc.org/)](https://opensourceoptions.com/blog/how-to-pass-arguments-to-a-python-script-from-the-command-line/)
-- [Command line arugments in python]([http://pandoc.org/MANUAL.html](https://www.geeksforgeeks.org/command-line-arguments-in-python/))
+- [How do I run Python script using arguments in command line](https://opensourceoptions.com/blog/how-to-pass-arguments-to-a-python-script-from-the-command-line/)
+- [Command line arugments in python](https://www.geeksforgeeks.org/command-line-arguments-in-python/)
